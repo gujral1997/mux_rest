@@ -1,4 +1,4 @@
-# CRUD APIs written inn golang
+# CRUD APIs written in golang
 
 ## Setup
 
